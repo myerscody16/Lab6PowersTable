@@ -16,10 +16,10 @@ namespace Lab6PowersTable
                 //squred method is run returning a value which is printed
                 //and then the cubed method is run and then printed into a final writeline 
                 //statement that formats them all in line. this repeats up to userNum.
-                for(int i = 1; i > userNum; i++)
+                for(int i = 1; i <= userNum; i++)
                 {
-                    double sqNumber = FindSquares(userNum);
-                    double cbNumber = FindCubes(userNum);
+                    double sqNumber = FindSquares(i);
+                    double cbNumber = FindCubes(i);
                     Console.WriteLine($"{i}     " + "\t"+ $"{sqNumber}       " + "\t" + $"{cbNumber}    ");
                 }
                 
