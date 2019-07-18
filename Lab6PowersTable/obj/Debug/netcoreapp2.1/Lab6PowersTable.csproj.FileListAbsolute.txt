@@ -1,0 +1,11 @@
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp2.1\Lab6PowersTable.deps.json
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp2.1\Lab6PowersTable.runtimeconfig.json
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp2.1\Lab6PowersTable.runtimeconfig.dev.json
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp2.1\Lab6PowersTable.dll
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\bin\Debug\netcoreapp2.1\Lab6PowersTable.pdb
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.csprojAssemblyReference.cache
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.csproj.CoreCompileInputs.cache
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.AssemblyInfoInputs.cache
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.AssemblyInfo.cs
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.dll
+C:\Users\myers\source\repos\Week1RecursionExample\Lab6PowersTable\Lab6PowersTable\obj\Debug\netcoreapp2.1\Lab6PowersTable.pdb
