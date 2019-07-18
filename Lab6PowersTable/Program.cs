@@ -12,8 +12,8 @@ namespace Lab6PowersTable
                 double userNum = ValidateIntegers("Please type an integer and press enter.");
                 Console.WriteLine("Number" + "\t" + "Squared" + "\t" + "Cubed");
                 Console.WriteLine("======" + "\t" + "=======" + "\t" + "=====");
-                //use a for loop for every i up to the userNum the initial number is printed as i, the squred method is 
-                //run returning a value which is printed
+                //use a for loop for every i up to the userNum the initial number is printed as i, the 
+                //squred method is run returning a value which is printed
                 //and then the cubed method is run and then printed into a final writeline 
                 //statement that formats them all in line. this repeats up to userNum.
                 for(int i = 1; i > userNum; i++)

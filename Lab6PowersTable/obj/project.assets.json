@@ -688,27 +688,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\myers\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Cody's PC\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\myers\\source\\repos\\Week1RecursionExample\\Lab6PowersTable\\Lab6PowersTable\\Lab6PowersTable.csproj",
+      "projectUniqueName": "C:\\Users\\Cody's PC\\Desktop\\Lab6PowersTable\\Lab6PowersTable\\Lab6PowersTable.csproj",
       "projectName": "Lab6PowersTable",
-      "projectPath": "C:\\Users\\myers\\source\\repos\\Week1RecursionExample\\Lab6PowersTable\\Lab6PowersTable\\Lab6PowersTable.csproj",
-      "packagesPath": "C:\\Users\\myers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\myers\\source\\repos\\Week1RecursionExample\\Lab6PowersTable\\Lab6PowersTable\\obj\\",
+      "projectPath": "C:\\Users\\Cody's PC\\Desktop\\Lab6PowersTable\\Lab6PowersTable\\Lab6PowersTable.csproj",
+      "packagesPath": "C:\\Users\\Cody's PC\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Cody's PC\\Desktop\\Lab6PowersTable\\Lab6PowersTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\myers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Cody's PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
