@@ -20,7 +20,7 @@ namespace Lab6PowersTable
                 {
                     double sqNumber = FindSquares(i);
                     double cbNumber = FindCubes(i);
-                    Console.WriteLine($"{i}     " + "\t"+ $"{sqNumber}       " + "\t" + $"{cbNumber}    ");
+                    Console.WriteLine($"{i}     " + "\t"+ $"{sqNumber}" + "\t" + $"{cbNumber}    ");
                 }
                 
                 bool cont2 = true;
